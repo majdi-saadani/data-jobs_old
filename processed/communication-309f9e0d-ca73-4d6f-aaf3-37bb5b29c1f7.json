@@ -1,0 +1,9 @@
+{
+    'id': '309f9e0d-ca73-4d6f-aaf3-37bb5b29c1f7',
+    'telecom': 'mail',
+    'created_at': '2019-07-08 04:20:56',
+    'sender': {
+        'name': 'Maurice Rolland',
+        'profession': 'liberal'
+    }
+}

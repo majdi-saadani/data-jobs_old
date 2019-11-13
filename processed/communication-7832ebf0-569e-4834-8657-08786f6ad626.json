@@ -1,0 +1,9 @@
+{
+    'id': '7832ebf0-569e-4834-8657-08786f6ad626',
+    'telecom': 'lifen',
+    'created_at': '2019-07-31 12:08:55',
+    'sender': {
+        'name': 'Jean Martin',
+        'profession': 'liberal'
+    }
+}

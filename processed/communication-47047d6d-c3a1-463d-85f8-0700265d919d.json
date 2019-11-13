@@ -1,9 +1,0 @@
-{
-    'id': '47047d6d-c3a1-463d-85f8-0700265d919d',
-    'telecom': 'lifen',
-    'created_at': '2019-07-25 15:10:29',
-    'sender': {
-        'name': 'Vincent Martinez',
-        'profession': 'private_hospital'
-    }
-}

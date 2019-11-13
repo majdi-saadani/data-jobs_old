@@ -1,9 +1,0 @@
-{
-    'id': '396f63f8-10bc-4b01-b45e-1945a7a09897',
-    'telecom': 'paper',
-    'created_at': '2019-07-26 23:16:28',
-    'sender': {
-        'name': 'Vincent Martinez',
-        'profession': 'private_hospital'
-    }
-}

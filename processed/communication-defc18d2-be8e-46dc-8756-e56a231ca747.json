@@ -1,0 +1,9 @@
+{
+    'id': 'defc18d2-be8e-46dc-8756-e56a231ca747',
+    'telecom': 'paper',
+    'created_at': '2019-07-04 08:10:20',
+    'sender': {
+        'name': 'Herve Delatour',
+        'profession': 'liberal'
+    }
+}

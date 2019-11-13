@@ -1,9 +1,0 @@
-{
-    'id': '84ac7c72-5840-4f3c-85e9-d55c53f909af',
-    'telecom': 'paper',
-    'created_at': '2019-07-23 08:24:13',
-    'sender': {
-        'name': 'Michel Durant',
-        'profession': 'public_hospital'
-    }
-}
