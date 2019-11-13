@@ -1,0 +1,9 @@
+{
+    'id': '91c70b37-99db-4826-b87e-160f1b564248',
+    'telecom': 'paper',
+    'created_at': '2019-07-28 03:09:18',
+    'sender': {
+        'name': 'Maurice Rolland',
+        'profession': 'liberal'
+    }
+}

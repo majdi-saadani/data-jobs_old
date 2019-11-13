@@ -1,0 +1,9 @@
+{
+    'id': '725f0c5d-9e8f-42a8-8ee0-45be0382ca7a',
+    'telecom': 'lifen',
+    'created_at': '2019-07-22 03:42:15',
+    'sender': {
+        'name': 'Herve Delatour',
+        'profession': 'liberal'
+    }
+}

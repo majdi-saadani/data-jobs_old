@@ -1,0 +1,9 @@
+{
+    'id': 'c4980b65-31ca-4039-8f63-c29bc288d37e',
+    'telecom': 'lifen',
+    'created_at': '2019-07-06 12:28:58',
+    'sender': {
+        'name': 'Maurice Rolland',
+        'profession': 'liberal'
+    }
+}
