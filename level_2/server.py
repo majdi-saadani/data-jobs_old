@@ -1,10 +1,10 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import json
-import __init__
+import level_1
 import os
 # HTTPRequestHandler class
 class testHTTPServer_RequestHandler(BaseHTTPRequestHandler):
-
+  generate_files = GenerateFiles()
   def do_POST(self):
         # Send response status code
         self.send_response(200)
@@ -39,7 +39,7 @@ class testHTTPServer_RequestHandler(BaseHTTPRequestHandler):
         json_string = (json.dumps(eval(data_clean), indent=4))
         with open(filename, 'w') as file:
             file.write(json_string.replace('"',"'"))
-
+        generate_files.test_cal()
         return
 def run():
   print('starting server...')

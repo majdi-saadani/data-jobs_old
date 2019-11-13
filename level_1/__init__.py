@@ -1,9 +1,8 @@
 import json
 import os
 
-
 #list all files
-class generate_files:
+class GenerateFiles:
     entries = os.listdir('communications/')
     # for each files we will read the text and we will change the structure of the data to json
     for entry in entries:
@@ -24,6 +23,8 @@ class generate_files:
         json_string = (json.dumps(eval(data_clean), indent=4))
         with open(filename, 'w') as file:
             file.write(json_string.replace('"',"'"))
+    def test_cal():
+        print("ko")
 
     def create_files(event):
         new = ""
