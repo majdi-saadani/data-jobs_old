@@ -1,0 +1,9 @@
+{
+    'id': '02973c61-350b-4f02-b703-0cb1fb778786',
+    'telecom': 'mail',
+    'created_at': '2019-07-21 04:55:47',
+    'sender': {
+        'name': 'Jean Martin',
+        'profession': 'liberal'
+    }
+}
